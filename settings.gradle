@@ -1,0 +1,6 @@
+rootProject.name = 'Day1_Java_BhavyaJain'
+include 'core'
+include 'data'
+include 'logging'
+include 'app'
+
