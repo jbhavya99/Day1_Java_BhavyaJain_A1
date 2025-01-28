@@ -3,6 +3,7 @@
 This project is employee management system in Java. The application follows a structure with `core`, `data`, and `logging` components in a single module.
 
 ## Components:
+INSIDE src/main -> java/org/example
 1. **Core**: Contains the `Employee` class with attributes like ID, name, age, and department.
    
 2. **Data**: Manages the employee data using the `EmployeeRepository` class.
