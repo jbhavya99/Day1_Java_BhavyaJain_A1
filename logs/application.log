@@ -1,0 +1,119 @@
+[2025-01-28T11:19:15.833033900] [INFO] Employee added: org.example.core.Employee@2f92e0f4
+[2025-01-28T11:19:15.848992300] [INFO] Employee added: org.example.core.Employee@5b480cf9
+[2025-01-28T11:19:15.849988500] [INFO] Employee added: org.example.core.Employee@6f496d9f
+[2025-01-28T11:19:15.849988500] [INFO] Initial employees added to the repository.
+[2025-01-28T11:19:15.858965200] [INFO] Employee retrieved by ID: 2
+[2025-01-28T11:19:15.858965200] [INFO] Retrieved Employee by ID: org.example.core.Employee@5b480cf9
+[2025-01-28T11:19:15.859962900] [INFO] Employee retrieved by Name: Ram
+[2025-01-28T11:19:15.859962900] [INFO] Retrieved Employee by Name: org.example.core.Employee@2f92e0f4
+[2025-01-28T11:19:15.860959300] [INFO] Employee retrieved by ID: 3
+[2025-01-28T11:19:15.860959300] [INFO] Employee updated with ID: 3
+[2025-01-28T11:19:15.861955200] [INFO] Updated Employee with ID 3.
+[2025-01-28T11:19:15.861955200] [INFO] Employee retrieved by Name: Shyam
+[2025-01-28T11:19:15.861955200] [INFO] Employee updated with Name: Shyam
+[2025-01-28T11:19:15.862970700] [INFO] Updated Employee with Name 'Shyam'.
+[2025-01-28T11:19:15.863951400] [ERROR] Employee not found with Name: DogaRam - Exception: Employee Not Found
+[2025-01-28T11:19:15.868936600] [ERROR] Attempted to retrieve a non-existent employee.
+[2025-01-28T11:19:15.869934600] [INFO] Employee added: org.example.core.Employee@3941a79c
+[2025-01-28T11:19:15.869934600] [INFO] Employee added: org.example.core.Employee@506e1b77
+[2025-01-28T11:19:15.870931600] [INFO] Employee added: org.example.core.Employee@4fca772d
+[2025-01-28T11:19:15.870931600] [INFO] Employee added: org.example.core.Employee@9807454
+[2025-01-28T11:19:15.870931600] [INFO] Employee added: org.example.core.Employee@3d494fbf
+[2025-01-28T11:19:15.871929200] [INFO] Employee added: org.example.core.Employee@1ddc4ec2
+[2025-01-28T11:19:15.871929200] [INFO] Employee added: org.example.core.Employee@133314b
+[2025-01-28T11:19:15.872926300] [INFO] Employee added: org.example.core.Employee@b1bc7ed
+[2025-01-28T11:19:15.872926300] [INFO] Employee added: org.example.core.Employee@7cd84586
+[2025-01-28T11:19:15.873923800] [INFO] Employee added: org.example.core.Employee@30dae81
+[2025-01-28T11:19:15.873923800] [INFO] Employee added: org.example.core.Employee@1b2c6ec2
+[2025-01-28T11:19:15.873923800] [INFO] Employee added: org.example.core.Employee@4edde6e5
+[2025-01-28T11:19:15.873923800] [INFO] Employee added: org.example.core.Employee@70177ecd
+[2025-01-28T11:19:15.874920500] [INFO] Employee added: org.example.core.Employee@1e80bfe8
+[2025-01-28T11:19:15.874920500] [INFO] Employee added: org.example.core.Employee@66a29884
+[2025-01-28T11:19:15.874920500] [INFO] Employee added: org.example.core.Employee@4769b07b
+[2025-01-28T11:19:15.875918100] [INFO] Employee added: org.example.core.Employee@cc34f4d
+[2025-01-28T11:19:15.875918100] [INFO] Employee added: org.example.core.Employee@17a7cec2
+[2025-01-28T11:19:15.875918100] [INFO] Employee added: org.example.core.Employee@65b3120a
+[2025-01-28T11:19:15.875918100] [INFO] Employee added: org.example.core.Employee@6f539caf
+[2025-01-28T11:19:15.876917] [INFO] Employee added: org.example.core.Employee@79fc0f2f
+[2025-01-28T11:19:15.876917] [INFO] Employee added: org.example.core.Employee@50040f0c
+[2025-01-28T11:19:15.876917] [INFO] Employee added: org.example.core.Employee@2dda6444
+[2025-01-28T11:19:15.876917] [INFO] Employee added: org.example.core.Employee@5e9f23b4
+[2025-01-28T11:19:15.877912600] [INFO] Employee added: org.example.core.Employee@4783da3f
+[2025-01-28T11:19:15.877912600] [INFO] Employee added: org.example.core.Employee@378fd1ac
+[2025-01-28T11:19:15.877912600] [INFO] Employee added: org.example.core.Employee@49097b5d
+[2025-01-28T11:19:15.877912600] [INFO] Employee added: org.example.core.Employee@6e2c634b
+[2025-01-28T11:19:15.878909400] [INFO] Employee added: org.example.core.Employee@37a71e93
+[2025-01-28T11:19:15.878909400] [INFO] Employee added: org.example.core.Employee@7e6cbb7a
+[2025-01-28T11:19:15.878909400] [INFO] Employee added: org.example.core.Employee@7c3df479
+[2025-01-28T11:19:15.879907600] [INFO] Employee added: org.example.core.Employee@7106e68e
+[2025-01-28T11:19:15.880905700] [INFO] Employee added: org.example.core.Employee@7eda2dbb
+[2025-01-28T11:19:15.880905700] [INFO] Employee added: org.example.core.Employee@6576fe71
+[2025-01-28T11:19:15.880905700] [INFO] Employee added: org.example.core.Employee@76fb509a
+[2025-01-28T11:19:15.881902300] [INFO] Employee added: org.example.core.Employee@300ffa5d
+[2025-01-28T11:19:15.881902300] [INFO] Employee added: org.example.core.Employee@1f17ae12
+[2025-01-28T11:19:15.881902300] [INFO] Employee added: org.example.core.Employee@4d405ef7
+[2025-01-28T11:19:15.881902300] [INFO] Employee added: org.example.core.Employee@6193b845
+[2025-01-28T11:19:15.882899800] [INFO] Employee added: org.example.core.Employee@2e817b38
+[2025-01-28T11:19:15.882899800] [INFO] Employee added: org.example.core.Employee@c4437c4
+[2025-01-28T11:19:15.882899800] [INFO] Employee added: org.example.core.Employee@433c675d
+[2025-01-28T11:19:15.882899800] [INFO] Employee added: org.example.core.Employee@3f91beef
+[2025-01-28T11:19:15.883897200] [INFO] Employee added: org.example.core.Employee@1a6c5a9e
+[2025-01-28T11:19:15.883897200] [INFO] Employee added: org.example.core.Employee@37bba400
+[2025-01-28T11:19:15.883897200] [INFO] Employee added: org.example.core.Employee@179d3b25
+[2025-01-28T11:19:15.884894600] [INFO] Employee added: org.example.core.Employee@254989ff
+[2025-01-28T11:19:15.884894600] [INFO] Employee added: org.example.core.Employee@5d099f62
+[2025-01-28T11:19:15.884894600] [INFO] Employee added: org.example.core.Employee@37f8bb67
+[2025-01-28T11:19:15.884894600] [INFO] Employee added: org.example.core.Employee@49c2faae
+[2025-01-28T11:19:15.885891300] [INFO] Employee added: org.example.core.Employee@20ad9418
+[2025-01-28T11:19:15.885891300] [INFO] Employee added: org.example.core.Employee@31cefde0
+[2025-01-28T11:19:15.885891300] [INFO] Employee added: org.example.core.Employee@439f5b3d
+[2025-01-28T11:19:15.885891300] [INFO] Employee added: org.example.core.Employee@1d56ce6a
+[2025-01-28T11:19:15.886889] [INFO] Employee added: org.example.core.Employee@5197848c
+[2025-01-28T11:19:15.886889] [INFO] Employee added: org.example.core.Employee@17f052a3
+[2025-01-28T11:19:15.886889] [INFO] Employee added: org.example.core.Employee@2e0fa5d3
+[2025-01-28T11:19:15.887887200] [INFO] Employee added: org.example.core.Employee@5010be6
+[2025-01-28T11:19:15.887887200] [INFO] Employee added: org.example.core.Employee@685f4c2e
+[2025-01-28T11:19:15.887887200] [INFO] Employee added: org.example.core.Employee@7daf6ecc
+[2025-01-28T11:19:15.887887200] [INFO] Employee added: org.example.core.Employee@2e5d6d97
+[2025-01-28T11:19:15.888884200] [INFO] Employee added: org.example.core.Employee@238e0d81
+[2025-01-28T11:19:15.888884200] [INFO] Employee added: org.example.core.Employee@31221be2
+[2025-01-28T11:19:15.888884200] [INFO] Employee added: org.example.core.Employee@377dca04
+[2025-01-28T11:19:15.889881] [INFO] Employee added: org.example.core.Employee@728938a9
+[2025-01-28T11:19:15.889881] [INFO] Employee added: org.example.core.Employee@21b8d17c
+[2025-01-28T11:19:15.889881] [INFO] Employee added: org.example.core.Employee@6433a2
+[2025-01-28T11:19:15.890878] [INFO] Employee added: org.example.core.Employee@5910e440
+[2025-01-28T11:19:15.890878] [INFO] Employee added: org.example.core.Employee@6267c3bb
+[2025-01-28T11:19:15.890878] [INFO] Employee added: org.example.core.Employee@533ddba
+[2025-01-28T11:19:15.891875500] [INFO] Employee added: org.example.core.Employee@246b179d
+[2025-01-28T11:19:15.891875500] [INFO] Employee added: org.example.core.Employee@7a07c5b4
+[2025-01-28T11:19:15.891875500] [INFO] Employee added: org.example.core.Employee@26a1ab54
+[2025-01-28T11:19:15.891875500] [INFO] Employee added: org.example.core.Employee@3d646c37
+[2025-01-28T11:19:15.892873600] [INFO] Employee added: org.example.core.Employee@41cf53f9
+[2025-01-28T11:19:15.892873600] [INFO] Employee added: org.example.core.Employee@5a10411
+[2025-01-28T11:19:15.892873600] [INFO] Employee added: org.example.core.Employee@2ef1e4fa
+[2025-01-28T11:19:15.893870400] [INFO] Employee added: org.example.core.Employee@306a30c7
+[2025-01-28T11:19:15.893870400] [INFO] Employee added: org.example.core.Employee@b81eda8
+[2025-01-28T11:19:15.893870400] [INFO] Employee added: org.example.core.Employee@68de145
+[2025-01-28T11:19:15.893870400] [INFO] Employee added: org.example.core.Employee@27fa135a
+[2025-01-28T11:19:15.894870200] [INFO] Employee added: org.example.core.Employee@46f7f36a
+[2025-01-28T11:19:15.894870200] [INFO] Employee added: org.example.core.Employee@421faab1
+[2025-01-28T11:19:15.894870200] [INFO] Employee added: org.example.core.Employee@2b71fc7e
+[2025-01-28T11:19:15.895865400] [INFO] Employee added: org.example.core.Employee@5ce65a89
+[2025-01-28T11:19:15.896862800] [INFO] Employee added: org.example.core.Employee@25f38edc
+[2025-01-28T11:19:15.897859900] [INFO] Employee added: org.example.core.Employee@1a86f2f1
+[2025-01-28T11:19:15.898866100] [INFO] Employee added: org.example.core.Employee@3eb07fd3
+[2025-01-28T11:19:15.898866100] [INFO] Employee added: org.example.core.Employee@506c589e
+[2025-01-28T11:19:15.899854300] [INFO] Employee added: org.example.core.Employee@69d0a921
+[2025-01-28T11:19:15.899854300] [INFO] Employee added: org.example.core.Employee@446cdf90
+[2025-01-28T11:19:15.899854300] [INFO] Employee added: org.example.core.Employee@799f7e29
+[2025-01-28T11:19:15.900852100] [INFO] Employee added: org.example.core.Employee@4b85612c
+[2025-01-28T11:19:15.900852100] [INFO] Employee added: org.example.core.Employee@277050dc
+[2025-01-28T11:19:15.901849300] [INFO] Employee added: org.example.core.Employee@5c29bfd
+[2025-01-28T11:19:15.901849300] [INFO] Employee added: org.example.core.Employee@7aec35a
+[2025-01-28T11:19:15.901849300] [INFO] Employee added: org.example.core.Employee@67424e82
+[2025-01-28T11:19:15.902846800] [ERROR] Cannot add employee. Repository is full. - Exception: Repository Full
+[2025-01-28T11:19:15.902846800] [ERROR] Cannot add employee. Repository is full. - Exception: Repository Full
+[2025-01-28T11:19:15.903843800] [ERROR] Cannot add employee. Repository is full. - Exception: Repository Full
+[2025-01-28T11:19:15.903843800] [ERROR] Cannot add employee. Repository is full. - Exception: Repository Full
+[2025-01-28T11:19:15.904841600] [ERROR] Cannot add employee. Repository is full. - Exception: Repository Full
+[2025-01-28T11:19:15.904841600] [INFO] Main operations completed. Check the logs for details.
